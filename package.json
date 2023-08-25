@@ -1,0 +1,17 @@
+{
+  "name": "express_generator",
+  "version": "1.0.0",
+  "description": "🚀 Express.js Project Generator",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "express-generator": "./bin/express-generator.bat"
+  },
+  "author": "",
+  "license": "ISC"
+}
