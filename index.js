@@ -36,7 +36,7 @@ const main = async () => {
     executeCommand('npm i --save body-parser');
 
     //Create a basic template for app.js file
-
+    createFile(projectName, appTemplate);
 }
 
 
