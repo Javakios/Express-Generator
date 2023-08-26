@@ -13,5 +13,9 @@
     "express-generator": "./bin/express-generator.bat"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "inquirer": "^9.2.10"
+  }
 }
